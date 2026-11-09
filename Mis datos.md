@@ -1,0 +1,2 @@
+- Alumno: Javier Agulló
+- Grupo: 2º SMR
